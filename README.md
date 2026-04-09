@@ -1,4 +1,4 @@
-<!-- 🔥 Animated Banner -->
+<!-- 🔥 Banner -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Md%20Mahamudur%20Rahman&fontSize=45&fontColor=ffffff&animation=fadeIn" />
@@ -13,7 +13,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Md Mahamudur Rahman</h1>
-<h3 align="center">💻 Web Developer | 🚀 MERN Stack Learner | 🎯 Future Software Engineer</h3>
+<h3 align="center">💻 Web Developer | 🚀 MERN Stack Learner | 🎯 Software Engineer Aspirant</h3>
 
 ---
 
@@ -25,7 +25,7 @@ I am a passionate Web Developer from Bangladesh 🇧🇩 who loves building mode
 * 🌱 Learning **AI, Machine Learning & Problem Solving**
 * 💼 Working on **Real-world Web Projects**
 * 🎥 Interested in **Content Creation & Teaching**
-* 🎯 Goal: Become a **Top Software Engineer**
+* 🎯 Goal: Build impactful and scalable software solutions
 
 ---
 
@@ -57,16 +57,12 @@ I am a passionate Web Developer from Bangladesh 🇧🇩 who loves building mode
 
 ---
 
-## 📈 Skill Progress (Visual 😮)
+## 📈 Skill Progress
 
-<p align="center">
-
-Frontend ██████████ 90%
-Backend  ███████░░░ 70%
-Database ███████░░░ 70%
-Problem Solving ██████░░░ 60%
-
-</p>
+* Frontend: ██████████ 90%
+* Backend: ███████░░░ 70%
+* Database: ███████░░░ 70%
+* Problem Solving: ██████░░░ 60%
 
 ---
 
@@ -112,21 +108,11 @@ Problem Solving ██████░░░ 60%
 
 ---
 
-## 🚀 Portfolio (Optional - add later)
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Visit-Portfolio-black?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
-
----
-
 ## ⚡ Fun Fact
 
-💡 I believe consistency + smart work = success 🚀
+💡 Consistency + Smart Work = Success 🚀
 
-<!-- 🔻 Footer Wave -->
+<!-- 🔻 Footer -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
