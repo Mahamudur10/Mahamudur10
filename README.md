@@ -59,12 +59,21 @@ I am a passionate Web Developer from Bangladesh 🇧🇩 who loves building mode
 
 ## 📈 Skill Progress
 
-* Frontend: ██████████ 90%
-* Backend: ███████░░░ 70%
-* Database: ███████░░░ 70%
-* Problem Solving: ██████░░░ 60%
+<p align="center">
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Frontend-90%25-00C7FF?style=for-the-badge&logo=react&logoColor=white" />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Backend-70%25-4CAF50?style=for-the-badge&logo=node.js&logoColor=white" />
+  
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/Database-70%25-FF9800?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
+  <!-- Problem Solving -->
+  <img src="https://img.shields.io/badge/Problem%20Solving-60%25-9C27B0?style=for-the-badge" />
 
----
+</p>
 
 ## 🌐 Connect with Me
 
