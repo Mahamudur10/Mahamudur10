@@ -88,10 +88,8 @@ I am a passionate Web Developer from Bangladesh 🇧🇩 who loves building mode
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahamudur10&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahamudur10&theme=darkhub&no-frame=true&margin-w=10&row=2&column=3" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 
